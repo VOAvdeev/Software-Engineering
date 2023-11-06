@@ -151,7 +151,7 @@ print(sentence[:5])
 print(3==4)
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I1.jpg)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I1.png)
 
 ## Выводы
 Данный код выводит проверяет 3 = 4, после чего выводит результат операуции в консоль.
@@ -163,7 +163,7 @@ a, b, c = 1, 2, 3
 print(a, b, c)
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I2.jpg)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I2.png)
 
 ## Выводы
 Данный код выводит присваивает значения трем переменным и выводит их в консоль.
@@ -176,7 +176,7 @@ a = int(input("Введи число: "))
 print(a)
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I3.jpg)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I3.png)
 
 ## Выводы
 Это программа которая принимает на вход только числа и выводит их.
@@ -189,7 +189,7 @@ str = 'gjdsl'
 print(str+str+str+str)
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I4.jpg)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I4.png)
 
 ## Выводы
 Данный код использует переменную со значением "gjdsl" и складывает ее три раза.
@@ -202,7 +202,7 @@ day, mes, year = 15, 'Февраль', 2023
 print(f'Сегодня {day} {mes} {year}.', end= ' Всего хорошего!')
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I5.jpg)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I5.png)
 
 ## Выводы
 Данный код выводт данные из переменных о дне, месяце, годе и выводит их в консоль.
@@ -215,7 +215,7 @@ test = 'Hello word'
 print(f'{test[0:5]} my {test[6:10]}')
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I6.jpg)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I6.png)
 
 ## Выводы
 Данный код берет ‘Hello World’ и вставляет ‘my’ между двумя словами.
@@ -228,7 +228,7 @@ text = 'Hello word'
 print(len(text))
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I7.jpg)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I7.png)
 
 ## Выводы
 Данный код узнает длину предложения ‘Hello World’, результат выведит в консоль.
@@ -241,7 +241,7 @@ text = "HELLO WORD"
 print((text.lower()))
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I8.jpg)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I8.png)
 
 ## Выводы
 Данный код переводит предложение в нижний регистр.
@@ -254,7 +254,7 @@ num_1, num_2 = 45, 22
 print(num_1*num_2)
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I9.jpg)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I9.png)
 
 ## Выводы
 Данный код умножает две переменные, результат выводит в консоль.
@@ -267,7 +267,7 @@ str_1= 'hello word'
 print(str_1.title())
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I10.jpg)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/I10.png)
 
 ## Выводы
 Данный код переводит каждое новое слово в верхний регистр.
