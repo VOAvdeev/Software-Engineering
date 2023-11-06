@@ -30,7 +30,7 @@ print(5.1 + 8.27)
 print(3 + 7.04 + 1 + 2.33)
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L1.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L1.jpg)
 
 ## Лабораторная работа №2
 ### Выведите в консоль три строки. Первая – результат сложения или вычитания минимум двух переменных типа int. Вторая – результат сложения или вычитания минимум двух переменных типа float. Третья – результат сложения или вычитания минимум двух переменных типа int и float.
@@ -44,7 +44,7 @@ two = 'Мир!'
 print(one + two)
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L2.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L2.jpg)
 
 
 ## Лабораторная работа №3
@@ -59,7 +59,7 @@ three = None
 print(str(three))
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L3.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L3.jpg)
 
   
 ## Лабораторная работа №4
@@ -72,7 +72,7 @@ three = input('three:')
 print(one, two, three)
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L4.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L4.jpg)
 
 
 ## Лабораторная работа №5
@@ -87,7 +87,7 @@ print('Целочисленное деление:', a // b)
 print('Нахождение остатка от деления:', a % b)
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L5.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L5.jpg)
 
 
 ## Лабораторная работа №6
@@ -98,7 +98,7 @@ line = 'Hello!'
 print(line * 6)
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L6.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L6.jpg)
 
 
 ## Лабораторная работа №7
@@ -108,7 +108,7 @@ sentence = 'Hello World'
 print(sentence.count('o'))
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L7.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L7.jpg)
 
 
 ## Лабораторная работа №8
@@ -118,7 +118,7 @@ print(sentence.count('o'))
 print('Hello\nWorld')
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L8.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L8.jpg)
 
 
 ## Лабораторная работа №9
@@ -130,7 +130,7 @@ print(sentence[1])
 print(sentence[:5])
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L9.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L9.jpg)
 
 ## Лабораторная работа №10
 ### Из предложения ‘Hello World’ выведите в консоль только 2 символ, а затем выведите слово ‘Hello’
@@ -141,7 +141,7 @@ print(sentence[1])
 print(sentence[:5])
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L10.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_2/lab_2/Pictures/L10.jpg)
 
 
 ## Самостоятельная работа №1
