@@ -32,7 +32,7 @@ if __name__ == '__main__':
     main()
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/L1.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Thema_4/Thema_4/pictures/L1.png)
 
 ## Лабораторная работа №2
 ### Напишите функцию, которая выполняет любые арифметические действия, возвращает при помощи return значение в место, откуда вызывали функцию. Выведите результат в консоль. Вызовите функцию используя “точку входа”
