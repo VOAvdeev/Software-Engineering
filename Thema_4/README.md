@@ -32,7 +32,7 @@ if __name__ == '__main__':
     main()
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/L1.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/L1.png)
 
 ## Лабораторная работа №2
 ### Напишите функцию, которая выполняет любые арифметические действия, возвращает при помощи return значение в место, откуда вызывали функцию. Выведите результат в консоль. Вызовите функцию используя “точку входа”
@@ -45,7 +45,7 @@ if __name__ == "__main__":
     print(main())
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/L2.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/L2.png)
 
 ## Лабораторная работа №3
 ### Напишите функцию, в которую передаются два аргумента, над ними производится арифметическое действие, результат возвращается туда, откуда эту функцию вызывали. Выведите результат в консоль. Вызовите функцию в любом небольшом цикле. На скриншоте ниже приведен пример программы, в которой аргумент функции “x“превращается в параметр “one”, то же самое происходит с “y” и “two
@@ -60,7 +60,7 @@ for i in range(5):
     print(main(x, y))
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/L3.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/L3.png)
   
 ## Лабораторная работа №4
 ### Напишите функцию, на вход которой подается какое-то изначальное неизвестное количество аргументов, над которыми будет производится арифметические действия. Для выполнения задания необходимо использовать кортеж “*args”. На скриншоте ниже приведен пример такой программы с комментариями.
@@ -78,7 +78,7 @@ if __name__ == "__main__":
     print(f"вывод: {result}")
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/L4.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/L4.png)
 
 ## Лабораторная работа №5
 ### Напишите функцию, которая на вход получает кортеж “**kwargs” и при помощи цикла выводит значения, поступившие в функцию. На скриншоте ниже указаны два варианта вызова функции с “**kwargs” и два варианта работы с данными, поступившими в эту функцию. Комментарии в коде и теоретическая часть помогут вам разобраться в этом нелегком аспекте. Вызовите функцию используя “точку входа”.
@@ -98,7 +98,7 @@ if __name__ == "__main__":
     main(**{"x": [1, 2, 3], "y": [3, 3, 0]})    
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/L5.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/L5.png)
 
 ## Лабораторная работа №6
 ### Напишите две функции. Первая – получает в виде параметра “**kwargs”. Вторая считает среднее арифметическое из значений первой функции. Вызовите первую функцию используя “точку входа” и минимум 4 аргумента.
@@ -118,7 +118,7 @@ print("hello word")
 ```
 
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/L6.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/L6.png)
 
 ## Лабораторная работа №7
 ### Создайте дополнительный файл .py. Напишите в нем любую функцию, которая будет что угодно выводить в консоль, но не вызывайте ее в нем. Откройте файл main.py, импортируйте в него функцию из нового файла и при помощи “точки входа” вызовите эту функцию
@@ -134,7 +134,7 @@ if __name__ == "__main__":
     print(hello_pop())
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/L7.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/L7.png)
 
 ## Лабораторная работа №8
 ### Напишите программу, которая будет выводить корень, синус, косинус полученного от пользователя числа
@@ -153,7 +153,7 @@ if __name__ == "__main__":
     main()
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/L8.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/L8.png)
 
 ## Лабораторная работа №9
 ### Напишите программу, которая будет рассчитывать какой день недели будет через n-нное количество дней, которые укажет пользователь.
@@ -178,7 +178,7 @@ if __name__ == "__main__":
     main()
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/L9.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/L9.png)
 
 ## Лабораторная работа №10
 ### Напишите программу с использованием глобальных переменных, которая будет считать площадь треугольника или прямоугольника в зависимости от того, что выберет пользователь. Получение всей необходимой информации реализовать через input(), а подсчет площадей выполнить при помощи функций. Результатом программы Михаил будет число, равное площади, необходимой фигуры
@@ -207,7 +207,7 @@ elif figire == "2":
 print(f"Площадь {result}")
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/L10.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/L10.png)
 
 ## Самостоятельная работа №1
 ### Дайте подробный комментарий для кода, написанного ниже. Комментарий нужен для каждой строчки кода, нужно описать что она делает. Не забудьте, что функции комментируются по-особенному
@@ -235,7 +235,7 @@ if __name__ == '__main__': # Проверка, запущен ли скрипт 
     print(f"Время выполнения программы - {time_costs}") # Вывод в консоль сколько времени занял код
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/I1.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/I1.png)
 
 ## Выводы
 Вся информация о коде описана в комментариях
@@ -260,7 +260,7 @@ if __name__ == "__main__":
     main()
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/I2.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/I2.png)
 
 ## Выводы
 
@@ -283,7 +283,7 @@ if __name__ == "__main__":
     main()
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/I3.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/I3.png)
 
 ## Выводы
 
@@ -306,7 +306,7 @@ if __name__ == "__main__":
 
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/I4.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/I4.png)
 
 ## Выводы
 
@@ -334,7 +334,7 @@ def start(a, b, c):
     return S
 ```
 ### Результат.
-![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pic/I5.png)
+![Меню](https://github.com/VOAvdeev/Software-Engineering/blob/Theme_4/Theme_4/pictures/I5.png)
 
 ## Выводы
 
